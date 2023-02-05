@@ -1,0 +1,60 @@
+.mb-4 .my-4{
+    margin-bottom: 1.5rem !important;
+}
+.h1-responsive {
+    font-size: 250%;
+}
+body{
+    font-family: "Roboto",sans-serif;
+}
+.w-responsive {
+    width: 70%;
+}
+.text-center{
+    text-align: center !important;
+}
+.mb-4{
+   padding-left: 70px;
+   padding-right: 70px;
+}
+/* .col-md-6{
+    flex: 0 0 50%;
+    flex-grow: 0;
+    flex-shrink: 0;
+    flex-basis: 50%;
+    max-width: 50%;
+    position: relative;
+    width: 100%;
+    padding-right: 15px;
+    padding-left: 15px;
+}
+label {
+    display: inline-block;
+    margin-bottom: 0.5rem;
+}
+.md-form label {
+    max-width: 100%;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    position: absolute;
+    top: 0px;
+    left: 0;
+    font-size: 1rem;
+    color: #757575;
+    cursor: text;
+    transform-origin: 0 100%;
+    transform: translateY(12px);
+}
+li {
+    display: list-item;
+    text-align: -webkit-match-parent;
+}
+.md-form textarea.md-textarea{
+    background-color: transparen;
+    border-bottom: 1px solid #ced4da;
+    border-bottom-width: 1px;
+    border-bottom-style: solid;
+    border-bottom-color: rgb(206, 212, 218);
+}
+ */

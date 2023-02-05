@@ -1,0 +1,36 @@
+.container_prop p {
+    /* position: relative;
+    font-size: 20px;
+    margin-left: 13%;
+    margin-right: 13%; */
+    justify-content: left;
+    font-size      : 1.4em;
+    margin-left: 13%;
+    margin-right: 13%;
+
+}
+.container_prop h2 {
+    margin-left: 30%;
+    color: #1e1d18;
+    background-color: burlywood;
+    border-radius: 35px 35px 35px 35px;
+    font-size: 40px; 
+    line-height: 60px;
+    font-weight: bold;
+    text-align: center;
+    height: 40%;
+    width: 40%;
+}
+.container_prop {
+    /* background: url(../../assest/images/Le\ moment.png) center no-repeat; */
+    /* background-size: cover; */
+    width: 100%;
+    max-width: 100%;
+    height: auto;
+    text-align: left;
+    overflow: hidden;
+   }
+   p{
+    font-family: 'Roboto', sans-serif;
+    /* font-family:  'Nunito';  */
+   }
